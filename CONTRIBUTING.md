@@ -20,6 +20,7 @@ really, thank you.
 
 To get you started, we put together this handy-dandy guide to submitting
 your patch:
+
 0. [Fork][] and clone the repository
 0. Configure and install the dependencies: `script/bootstrap`
 0. Make sure the tests pass on your machine: `script/test`
@@ -41,7 +42,7 @@ them as separate pull requests.
 
 [fork]: https://github.com/opentable/<project>/fork
 [pr]: https://github.com/opentable/<project>/compare
-[cla]: <TODO: Get CLA>
+[cla]: http://link.to.cla.here
 
 ### Style Guide
 TODO: Draft this
