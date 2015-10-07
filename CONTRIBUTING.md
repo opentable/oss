@@ -39,6 +39,7 @@ Here are a few things you can do that will increase the likelihood of your pull 
 - Keep your change as focused as possible. If there are multiple changes you
 would like to make that are not dependent upon each other, consider submitting
 them as separate pull requests.
+- Squash multiple commits into a single, clean commit.
 
 [fork]: https://github.com/opentable/<project>/fork
 [pr]: https://github.com/opentable/<project>/compare
