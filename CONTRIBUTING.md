@@ -47,3 +47,9 @@ them as separate pull requests.
 
 ### Style Guide
 TODO: Draft this
+
+### Releasing
+This section is for the project's maintainers.
+
+- Use SemVer. Breaking the API in a non-backwards compatible way? Make sure you version it properly. Details at http://semver.org/.
+- Use Git tags for generating new releases. Generally tagging with targeted release version is acceptable.
