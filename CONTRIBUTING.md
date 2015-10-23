@@ -12,7 +12,7 @@ If you want to submit a bug report, [open a new issue][new-issue].
 Please provide a detailed description of the issue and include any relevant
 reproduction steps or stack traces.
 
-[new-issue]: https://github.com/opentable/<project>/issues/new
+[new-issue]: ../../issues/new
 
 ### Submitting Pull Requests
 So you've decided you want to send us some code. That's awesome. No,
@@ -41,15 +41,19 @@ would like to make that are not dependent upon each other, consider submitting
 them as separate pull requests.
 - Squash multiple commits into a single, clean commit.
 
-[fork]: https://github.com/opentable/<project>/fork
-[pr]: https://github.com/opentable/<project>/compare
+[fork]: ../../fork
+[pr]: ../../compare
 [cla]: http://link.to.cla.here
 
 ### Style Guide
-TODO: Draft this
+> This section should be modified on a per-project basis. Different teams,
+> projects, and languages are going to have different style concerns. Your
+> team should complete this section as a part of the OSS release process.
 
 ### Releasing
 This section is for the project's maintainers.
 
-- Use SemVer. Breaking the API in a non-backwards compatible way? Make sure you version it properly. Details at http://semver.org/.
-- Use Git tags for generating new releases. Generally tagging with targeted release version is acceptable.
+- Use SemVer. Breaking the API in a non-backwards compatible way? Make sure
+you version it properly. Details at http://semver.org/.
+- Use Git tags for generating new releases. Generally tagging with the targeted
+release version is acceptable.
