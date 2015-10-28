@@ -28,7 +28,6 @@ your patch:
 0. Make your change, add tests, and make sure the tests still pass
 0. Add a CHANGELOG entry detailing your changes
 0. Push to your fork and [submit a pull request][pr]
-0. Accept the [OpenTable CLA][cla]
 0. :beers:
 
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
@@ -43,7 +42,6 @@ them as separate pull requests.
 
 [fork]: ../../fork
 [pr]: ../../compare
-[cla]: http://link.to.cla.here
 
 ### Style Guide
 > This section should be modified on a per-project basis. Different teams,
