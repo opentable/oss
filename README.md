@@ -12,3 +12,7 @@ be completed for each project.
 
 [license]: ../LICENSE
 [contributing-template]: ../CONTRIBUTING.md
+
+## Questions?
+Feel free to drop us a line at opensource@opentable.com or open
+an issue and mention @opentable/oss.
